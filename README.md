@@ -1,7 +1,12 @@
 
 # CRUD- Community Board App
 
+A simple CRUD application developed using flutter framework and dart and flutter frame work and as backend service.
+
 Developed a Cross platform and authentication oriented Mobile application that lets the user Create, Read, Update and Delete (CRUD) queries in a society/ Community in real time, the four basis operations in a persistent storage. 
+
+![cbf70a62-ef96-4c1b-b1b8-087e0c26ac13](https://user-images.githubusercontent.com/82975890/151191930-b5aaf328-a064-49f4-8a8e-dd7cbbda2acc.jpg)
+
 
  ## Downloads
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1_cF-XurW2Zh_apZl2aC5Y4yxgrTuAciU/view?usp=sharing)
@@ -9,8 +14,32 @@ Developed a Cross platform and authentication oriented Mobile application that l
  ## Features
 
 - Authentication is provided. User has to make a account first.
+- Lets the user Create, Read, Update and Delete (CRUD) queries in a society/ Community in real time.
+- Provided with all Sqlite type operations.
+- Complete Backend support.
+- Dart Ui Theme.
 
 ## Screenshots
+![630c526b-b20a-4839-ae48-e9537139b343](https://user-images.githubusercontent.com/82975890/151190983-17d68864-3a43-411d-af38-29a724bf072c.jpg)
+
+![966edf27-e924-40e9-bfff-8ad4b6ddba18](https://user-images.githubusercontent.com/82975890/151191013-9b053671-d0ef-46b2-9301-06710729e578.jpg)
+
+
+![a9206b8e-5efe-4b3a-b6a5-e3d3fc593248](https://user-images.githubusercontent.com/82975890/151191041-d9a50315-061b-49a0-9efa-ac49c39acea9.jpg)
+
+
+![0fa2fa5d-9e9b-49ac-a7de-93b49992b544](https://user-images.githubusercontent.com/82975890/151191089-29133bf8-2da8-4400-8646-8d6f969b7bec.jpg)
+
+
+![ebcb5d36-1555-4a9f-8e11-397e897ce880](https://user-images.githubusercontent.com/82975890/151191110-ecbf58a6-36a3-4c80-ba5c-8b0e6fac0172.jpg)
+
+
+![a2a08964-1a01-4bb3-ac66-ad5a00c09405](https://user-images.githubusercontent.com/82975890/151191139-e0eaca3e-28e2-4246-b972-699489d4790a.jpg)
+
+![462a6f98-dcf8-44d7-956c-519ae92f8f79](https://user-images.githubusercontent.com/82975890/151191165-1986feaf-092c-4df8-9d95-5bab8c558e7a.jpg)
+
+![1b013a61-6484-4f78-8a86-f3d52f0977a4](https://user-images.githubusercontent.com/82975890/151191203-e2942296-253f-4421-ba01-e983c7fd08ae.jpg)
+
 
 
 ## Run Locally
@@ -32,7 +61,6 @@ Run the app
 ```bash
   flutter run
 ```
-
 
 
 ## Dependencies 
