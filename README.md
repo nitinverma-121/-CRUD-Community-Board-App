@@ -1,7 +1,7 @@
 
 # CRUD- Community Board App
 
-A simple CRUD application developed using flutter framework and dart and flutter frame work and as backend service.
+A simple CRUD application developed using flutter framework and dart and flutter firestore and as backend service.
 
 Developed a Cross platform and authentication oriented Mobile application that lets the user Create, Read, Update and Delete (CRUD) queries in a society/ Community in real time, the four basis operations in a persistent storage. 
 
